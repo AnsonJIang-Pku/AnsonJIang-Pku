@@ -7,7 +7,7 @@
 - 📫 How to reach me: kazejiang@pku.edu.cn
 - ⚡ Fun fact: ACG lover, love to listen to music (J-pop as well as classical) ...
 
-<p align="center"> <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"> <img src="https://komarev.com/ghpvc/?username=megasuite&label=Profile%20views&color=0e75b6&style=flat" alt="megasuite" /> </a></p>
+<p align="center"> <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"> <img src="https://komarev.com/ghpvc/?username=AnsonJIang-Pku&label=Profile%20views&color=brightgreen&style=flat" alt="AnsonJIang-Pku" /> </a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
