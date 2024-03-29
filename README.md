@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jiang Zehui, a Graduate student in IST, UTokyo.
+### Hi there 👋 I'm Jiang Zehui, a Graduate student from IST, UTokyo.
 
 - 🔭 I’m currently working on complete some projects of the courses from UCB.
 - 🌱 I’m currently learning about Unreal Engine and AI technologies.
