@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Jiang Zehui, just graduated from Peking University, School of Physics.
+### Hi there 👋 I'm Jiang Zehui, a Graduate student in IST, UTokyo.
 
-## I'm a student now, and will go to Tokyo University, Japan.
 - 🔭 I’m currently working on complete some projects of the courses from UCB.
 - 🌱 I’m currently learning about Unreal Engine and AI technologies.
 - 👯 I’m looking to collaborate with other people who shares similar ideas with me.
